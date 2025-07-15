@@ -1,5 +1,4 @@
 # Password-strength-checker-
-# 🔐 Password Strength Checker
 
 A simple beginner-friendly web app that checks the strength of a password in real-time.
 
