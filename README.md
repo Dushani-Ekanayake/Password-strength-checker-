@@ -25,5 +25,5 @@ A simple beginner-friendly web app that checks the strength of a password in rea
 
 ## 📂 How to Run
 
-1. Clone this repository:
+1. Clone this repository: https://dushani-ekanayake.github.io/Password-strength-checker-/
   
